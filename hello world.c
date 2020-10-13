@@ -6,6 +6,9 @@
 
 main()
 {
+    printf("\n");
+    printf("Saya sedang belajar");
+    printf("\n");
     printf("hello world");
     printf("\n");
 }
